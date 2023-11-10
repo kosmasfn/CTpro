@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "clevertap-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CleverTap/clevertap-ios-sdk",
+      "state" : {
+        "branch" : "master",
+        "revision" : "26acd9650735ee398b7519d4cc5e3da6f48b774e"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "fd1950de05a5ad77cb252fd88576c1e1809ee50d",
+        "version" : "5.18.4"
+      }
+    }
+  ],
+  "version" : 2
+}
